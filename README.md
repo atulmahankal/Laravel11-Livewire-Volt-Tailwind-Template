@@ -34,7 +34,7 @@ more on https://laravel.com/docs/master/deployment#server-requirements
 
 ## Features
 - [x] Base Setting
-- [x] API Integratiuon
+- [x] API Integration
 - [ ] Authentication
   - [ ] Registration
   - [ ] Login
@@ -50,3 +50,7 @@ more on https://laravel.com/docs/master/deployment#server-requirements
   - [ ] Crrent Sessions
   - [ ] API Sessions
 - [ ] User CRUD (with api)
+
+## Tools
+- TailwindCSS
+- Flowbite
