@@ -11,18 +11,18 @@
     <img src="https://tailwindcss.com/favicons/favicon.ico?v=3" alt="TailwindCSS" width="50" />
     <div>TailwindCSS</div>
   </div>
-  <div style="text-align: center; margin: 0 10px;">
+  <!-- <div style="text-align: center; margin: 0 10px;">
     <img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbit" width="50" />
     <div>Flowbit</div>
-  </div>
+  </div> -->
 </div>
 
-# Laravel + Livewire + Tailwind + Flowbite
+# Laravel + Livewire + Tailwind
 
 ## Creating a Laravel Project with current template
 
 ```bash
-composer create-project --repository-url=https://github.com/atulmahankal/Laravel-Livewire-Flowbite.git atulmahankal/Laravel-Livewire-Flowbite livewire-flowbite-app
+composer create-project --repository-url=https://github.com/atulmahankal/Laravel11-Livewire-Volt-Tailwind-Template.git atulmahankal/Laravel11-Livewire-Volt-Tailwind-Template livewire-flowbite-app
 ```
 
 ## Compatible Requirements
